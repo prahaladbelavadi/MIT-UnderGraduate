@@ -1,6 +1,6 @@
 # Courses:
 
 ### Tracks:
-- [Economics](./economics/class-list)
+- [Economics](./economics/track)
 - Electrical
 - Computer Science
